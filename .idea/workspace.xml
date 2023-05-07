@@ -5,7 +5,198 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd61e57-9f0a-4ff1-9f2d-4b8d3a9a98f1" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Noseprint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Noseprint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotations/tft/a008.tfrecord" beforeDir="false" afterPath="$PROJECT_DIR$/annotations/tft/a008.tfrecord" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/convert2Yolo/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert2Yolo/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/class1.names" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a001.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a001.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a002.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a002.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a003.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a003.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a004.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a004.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a005.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a005.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a006.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a006.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a007.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a007.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a008.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a008.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a009.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a009.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a010.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a010.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a011.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a011.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a012.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a012.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a013.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a013.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a014.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a014.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a015.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a015.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a016.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a016.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a017.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a017.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a018.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a018.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a019.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a019.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a020.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a020.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a022.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a022.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/a024.json" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/data/a024.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a001/감자9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a002/구름이1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a002/구름이2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a002/구름이3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a002/구름이4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a002/구름이5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a002/구름이6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a003/KakaoTalk_20230503_203752113_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a003/KakaoTalk_20230503_203752113_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a003/KakaoTalk_20230503_203752113_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a003/KakaoTalk_20230503_203756153_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a003/KakaoTalk_20230503_203801653.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a003/KakaoTalk_20230503_203801653_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a003/KakaoTalk_20230503_203801653_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a003/KakaoTalk_20230503_203804283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a003/KakaoTalk_20230503_203804283_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a004/뚠뚠이1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a004/뚠뚠이2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a004/뚠뚠이3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a004/뚠뚠이4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a004/뚠뚠이5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a005/KakaoTalk_20230503_235646289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a005/KakaoTalk_20230503_235646289_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a006/새봄1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a006/새봄2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a006/새봄3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a006/새봄4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a006/새봄5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a006/새봄6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a006/새봄7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a007/TFRecord_annatations/default.tfrecord" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a007/TFRecord_annatations/label_map.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a007/annotations/instances_default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a007/선이1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a007/선이2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a007/선이3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (10).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (7).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (8).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a008/솜이 (9).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a009/신비1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a009/신비2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a009/신비3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a010/TFRecord_annotations/default.tfrecord" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a010/TFRecord_annotations/label_map.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a010/annotations/instances_default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a010/십송이1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a010/십송이2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a010/십송이3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a011/앙팡이1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a011/앙팡이2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a011/앙팡이3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a011/앙팡이4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a011/앙팡이5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a012/여름1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a012/여름2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a012/여름3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a012/여름4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a012/여름5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/장그래1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/장그래2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/장그래3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/장그래4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/장그래5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/장그래6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/장그래7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a014/코코4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a014/코코5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a014/코코6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a015/타미1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a015/타미2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a015/타미3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a015/타미4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a015/타미5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194907474.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194907756.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194907973.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194908180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194908427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194908643.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194908893.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194909145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194909429.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194909869.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194910680.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194911129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_194912626.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a016/KakaoTalk_20230503_195417130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a017/KakaoTalk_20230504_000018293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a017/KakaoTalk_20230504_000122434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a017/KakaoTalk_20230504_000209670.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a017/KakaoTalk_20230504_000223856.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a018/TFRecord_annatations/default.tfrecord" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a018/TFRecord_annatations/label_map.pbtxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a018/annotations/instances_default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a018/대순이1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a018/대순이2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a018/대순이3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a019/두부 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a019/두부 (10).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a019/두부 (11).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a019/두부 (12).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a019/두부 (13).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a019/두부 (14).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a019/두부 (15).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a019/두부 (16).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a019/두부 (17).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a020/장복남 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a020/장복남 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a020/장복남 (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a020/장복남 (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a020/장복남 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a020/장복남 (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a022/세모 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a022/세모 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a022/세모 (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a022/세모 (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a022/세모 (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a022/세모 (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a024/향단이1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a024/향단이2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a024/향단이3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a024/향단이4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a024/향단이5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a024/향단이6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a024/향단이7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_203752113_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_203752113_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_203752113_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_203756153_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_203801653.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_203801653_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_203801653_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_203804283.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_203804283_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_235646289.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/KakaoTalk_20230503_235646289_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/labels/媛먯옄9.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +204,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/detectron2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -26,11 +217,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Dog/convert2Yolo",
     "node.js.detected.package.eslint": "true",
@@ -59,7 +251,8 @@
       <workItem from="1683388283908" duration="640000" />
       <workItem from="1683393014964" duration="2433000" />
       <workItem from="1683395893772" duration="6098000" />
-      <workItem from="1683402154616" duration="271000" />
+      <workItem from="1683402154616" duration="445000" />
+      <workItem from="1683468443176" duration="7227000" />
     </task>
     <servers />
   </component>
