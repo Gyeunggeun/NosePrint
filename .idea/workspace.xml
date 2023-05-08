@@ -5,9 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd61e57-9f0a-4ff1-9f2d-4b8d3a9a98f1" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/noseprints/dog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Noseprint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Noseprint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noseprints/manifest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/manifest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert2Yolo" beforeDir="false" afterPath="$PROJECT_DIR$/convert2Yolo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert2Yolo/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert2Yolo/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert2Yolo/manifest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/class1.names" beforeDir="false" afterPath="$PROJECT_DIR$/noseprints/class1.names" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/a013_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/a013_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/a013_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/a013_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/a013_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/a013_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013/a013_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noseprints/data/images/a013_7.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,24 +46,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Dog/convert2Yolo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dog/convert2Yolo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Dog\convert2Yolo" />
@@ -63,11 +83,30 @@
       <workItem from="1683393014964" duration="2433000" />
       <workItem from="1683395893772" duration="6098000" />
       <workItem from="1683402154616" duration="445000" />
-      <workItem from="1683468443176" duration="10185000" />
+      <workItem from="1683468443176" duration="10506000" />
+      <workItem from="1683538177611" duration="593000" />
+      <workItem from="1683549462394" duration="16025000" />
+      <workItem from="1683568448201" duration="2424000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/convert2Yolo/example.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/convert2Yolo/example.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
