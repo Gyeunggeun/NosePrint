@@ -1,9 +1,8 @@
 /detectron2/
-/yolov5/
 /논문 모음/
 /yolov5m.pt
-
-/yolov5/runs/train/dog12/weights/
+/yolov5/runs/train/
+/yolov5/runs/detect/
 /pytorch_project_fine_tuning.ipynb
 /pytorch_project_Image_preprocessing.ipynb
 /pytorch_project_ImageFolder.ipynb
