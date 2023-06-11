@@ -1,0 +1,5 @@
+﻿No.,Backbone Model,F1,Accuracy
+1,ResNet-152v2,0.943,0.951
+2,ResNet-50v2,0.92,0.932
+3,Vision Transformer,0.911,0.901
+4,VGG-19,0.769,0.832

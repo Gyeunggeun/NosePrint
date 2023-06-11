@@ -1,0 +1,7 @@
+﻿No.,Data Augmentation,Learning Rate Scheduler,Warmup,F1,Accuracy,기타
+1,수동으로 Resize만 적용,X,X,0.515,0.528,
+2,"ImageDataGenerator 적용, class별 기존 이미지의 30배",epoch < 30 일때 0.001 30< epoch < 100일때 0.0001,10,0.733,0.769,
+3,"ImageDataGenerator 적용, class별 기존 이미지의 30배",epoch < 30 일때 0.001 30< epoch < 100일때 0.0001,5,0.81,0.802,BatchNormalization 적용
+4,"ImageDataGenerator 적용, class별 기존 이미지의 30배",CosineDecay 적용 learning rate가 감소했다가 다시 늘어나는 과정 반복,5,0.823,0.815,
+5,"ImageDataGenerator + 추가 증강, class별 기존 이미지의 150배","CosineDecay 적용 lr 최적화 (initial : 1e^-2, decay step:30)",3,0.863,0.856,Earlystopping 정의
+6,"ImageDataGenerator + 추가 증강, class별 기존 이미지의 150배","분수함수 형태의 Decay 적용 (initial : 1e-3, floor : 1e-5)",3,0.943,0.951,
